@@ -4,7 +4,11 @@ small tic-tac-toe interface for https://github.com/adrian-marina/tictactoe servi
 
 ## Setup
 
-To get an interactive development environment run:
+first clone this repo
+
+```git clone https://github.com/adrian-marina/tictactoe-ui.git```
+
+then run
 
     lein figwheel
 
